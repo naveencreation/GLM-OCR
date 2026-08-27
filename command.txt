@@ -1,0 +1,4 @@
+venv\Scripts\python glm_ocr_pipeline.py --input ./input_docs --output ./results --mode text --poppler-path "C:\poppler-26.02.0\Library\bin"
+
+
+python glm_ocr_pipeline.py --input ./input_docs --output ./results --mode text --poppler-path "C:\poppler-26.02.0\Library\bin"
